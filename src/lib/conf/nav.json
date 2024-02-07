@@ -11,32 +11,11 @@
       "external": false
     },
     {
-      "key": "accoCornflower",
-      "path": "/accomodations/acco_cornflower",
-      "sub": true,
-      "external": false
-    },
-    {
-      "key": "accoSunflower",
-      "path": "/accomodations/acco_sunflower",
-      "sub": true,
-      "external": false
-    },
-    {
-      "key": "accoRosebush",
-      "path": "/accomodations/acco_rosebush",
-      "sub": true,
-      "external": false
-    },
-    {
-      "key": "koserow",
-      "path": "http://www.koserower.de",
-      "external": true
-    },
-    {
-      "key": "usedom",
-      "path": "http://inselusedom.de",
-      "external": true
+      "key": "e305d1ca-3976-4358-bf37-fb00b519d006",
+      "path": "/accomodations/e305d1ca-3976-4358-bf37-fb00b519d006",
+      "acco": "e305d1ca-3976-4358-bf37-fb00b519d006",
+      "external": false,
+      "sub": true
     }
   ],
   "footer": [
